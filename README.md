@@ -51,7 +51,7 @@ This is a number guessing game where the player tries to guess a secret number w
 
 ## 📸 Demo
 
-> Replace this line with a screenshot of your fixed, winning game.
+![Fixed winning game](demo.png)
 
 ## 🚀 Stretch Features
 
